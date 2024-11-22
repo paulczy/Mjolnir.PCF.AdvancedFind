@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <manifest>
-  <control namespace="Mjolnir" constructor="AdvancedFind" version="0.0.3" display-name-key="AdvancedFind" description-key="AdvancedFind description" control-type="standard" >
+  <control namespace="Mjolnir" constructor="AdvancedFind" version="0.0.4" display-name-key="AdvancedFind" description-key="AdvancedFind description" control-type="standard" >
     <external-service-usage enabled="false">
     </external-service-usage>
     <type-group name="texts">
